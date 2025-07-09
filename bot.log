@@ -1,0 +1,12 @@
+2025-07-09 10:00:57,179 - INFO - Order Response: {"code":-2014,"msg":"API-key format invalid."}
+2025-07-09 10:16:43,722 - INFO - Order Response: {"code":-2014,"msg":"API-key format invalid."}
+2025-07-09 10:25:28,001 - INFO - Order Response: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2025-07-09 11:07:14,353 - INFO - Order Response: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2025-07-09 11:19:10,936 - INFO - Simulated Order - symbol: BTCUSDT, side: BUY, type: MARKET, quantity: 0.01, price: None, stop_price: None
+2025-07-09 11:19:11,938 - INFO - Simulated Response: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.01', 'price': 'market price', 'stop_price': 'N/A', 'status': 'FILLED', 'orderId': 1752040151, 'timestamp': 1752040151938}
+2025-07-09 11:40:56,417 - INFO - GUI Simulated Order - symbol: BTCUSDT, side: BUY, type: MARKET, quantity: 0.01, price: 76, stop_price: None
+2025-07-09 11:40:57,418 - INFO - GUI Simulated Response: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.01', 'price': '76', 'stop_price': 'N/A', 'status': 'FILLED', 'orderId': 1752041457, 'timestamp': 1752041457418}
+2025-07-09 11:45:45,222 - INFO - GUI Simulated Order - symbol: BTCUSDT, side: BUY, type: MARKET, quantity: 1, price: None, stop_price: None
+2025-07-09 11:45:46,223 - INFO - GUI Simulated Response: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1', 'price': 'market price', 'stop_price': 'N/A', 'status': 'FILLED', 'orderId': 1752041746, 'timestamp': 1752041746223}
+2025-07-09 12:05:06,747 - INFO - Simulated Order - symbol: BTCUSDT, side: BUY, type: MARKET, quantity: )1, price: None, stop_price: None
+2025-07-09 12:05:07,748 - INFO - Simulated Response: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': ')1', 'price': 'market price', 'stop_price': 'N/A', 'status': 'FILLED', 'orderId': 1752042907, 'timestamp': 1752042907748}
